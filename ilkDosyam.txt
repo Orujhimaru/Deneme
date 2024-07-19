@@ -1,6 +1,6 @@
 MERHABA GITE GIRIS DERSI!
- 1. LOKUM 
+ 1. vs code setup
 
- 2. GIT VE GITHUB 
+ 2. git ve github
 
  3. BRANCHIN & MERGE CONFLICT
