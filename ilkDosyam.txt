@@ -1,2 +1,4 @@
 MERHABA GE GIIS DRSI !!!
-fsdfsdfsd
+ 1. vs code setup
+
+ 2. git ve github
